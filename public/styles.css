@@ -1,0 +1,40 @@
+body {
+        background-color: #003f5c;
+    }
+
+    section {
+        background-color: #faeee7;
+        border-radius: 50px;
+        text-align: center;
+        width: 30rem;
+        height: 30rem;
+        margin: 10rem 35rem 20rem 35rem;
+        font-size: 24px;
+    }
+
+    div {
+        margin: 3rem;
+    }
+
+    input, select {
+        width: 20rem;
+        height: 1.5rem;
+        border-radius: 10px;
+        margin-bottom: 3rem;
+        text-align: center;
+    }
+    button {
+        margin-top: 4rem;
+        width: 20rem;
+        height: 2rem;
+        border-radius: 10px;
+        font-size: 16px;
+    }
+    button:hover {
+        background-color: #003f5c;
+        color: #faeee7;
+        box-shadow: 2px 2px black;
+    }
+    h1 {
+        color: #003f5c;
+    }
